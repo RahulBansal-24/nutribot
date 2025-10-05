@@ -1,0 +1,16 @@
+# Ignore environment files and secrets
+.env
+.env.local
+*.env
+
+# Ignore OS / editor specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache or temporary files (if any)
+__pycache__/
+*.pyc
+
+# Ignore LangFlow temporary or log files (if any)
+*.log
+.cache/
