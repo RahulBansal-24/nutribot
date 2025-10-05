@@ -54,6 +54,7 @@ This repo includes **two LangFlow versions** of NutriBot:
 ## 📁 Project Structure
 
 NutriBot/
+
 │
 
 ├── nutribot_ollama_flow.json # Flow using Ollama LLM
@@ -93,4 +94,5 @@ NutriBot/
 AI & Web Development Enthusiast  
 *Project Type:* AI Chatbot · LangFlow · LLM Integration  
 **Tags:** `LangFlow` `Ollama` `Gemini` `ChatGPT` `AI` `Fitness` `Diet`
+
 
